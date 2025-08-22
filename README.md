@@ -37,7 +37,7 @@ Apaixonado por tecnologia, aprendizado constante e criação de soluções digit
 
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com) *(http://linkedin.com/in/ricardo-rodrigues6)*  
-- ✉️ ricantony66@gmail.com 
+- ✉️-[E-mail](mailto:ricantony66@gmail.com)
 
 ---
 ✨ Sempre em busca de novos desafios e evolução constante!
