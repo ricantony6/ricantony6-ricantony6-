@@ -1,4 +1,4 @@
-# ricantony6-ricantony6-
+# ricantony6
 README.md
 # 👋 Olá, eu sou o Ricardo Antonio  
 
