@@ -22,10 +22,10 @@ Apaixonado por tecnologia, aprendizado constante e criação de soluções digit
 ---
 
 ## 📌 Projetos em destaque
-- 📊 [Dashboard de Metas](https://github.com/ricantony6/Deshboard-de-metas) — Organize e acompanhe suas metas pessoais.  
+- 📊 [Dashboard de Metas](https://github.com/ricantony6/Dashboard-metas) — Organize e acompanhe suas metas pessoais.  
 - 🧮 [Calculadora IMC](https://github.com/ricantony6/calculadora-imc) — Calcule seu Índice de Massa Corporal.  
 - 🔗 [DevLinks](https://github.com/ricantony6/devlinks) — Página de links personalizada estilo Linktree.  
-- 🗂️ [Meu Portfólio](https://github.com/ricantony6/My-portifolio) — Site pessoal com meus projetos.  
+- 🗂️ [Portfólio](https://github.com/ricantony6/Portifolio) — Site pessoal com meus projetos.  
 
 ---
 
